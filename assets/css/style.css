@@ -454,9 +454,9 @@ header a.logo img {
     transition: all .3s linear;
     width: 36px;
     padding: 6px;
-    margin-right: 3rem;
+    margin-right: 2rem;
     position: absolute;
-    right: 15px;
+    right: 25px;
     display: inline-block;
 }
 .sidemenu_btn span {
