@@ -795,8 +795,8 @@ header a.logo img {
     width: 370px;
     -o-object-fit: cover;
     object-fit: cover;
-    -webkit-box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
-    box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
+    /* -webkit-box-shadow: -6px 10px 40px rgba(0,0,0,0.06);
+    box-shadow: -6px 10px 40px rgba(0,0,0,0.06); */
     -webkit-transition: none;
     -o-transition: none;
     transition: none;
@@ -1375,7 +1375,7 @@ header a.logo img {
     font-size: 23px;
     line-height: 47px;
     color: #fff;
-    background-color: #00bcd4;
+    background-color: #55ACEE;
     display: none;
     height: 45px;
     width: 45px;
